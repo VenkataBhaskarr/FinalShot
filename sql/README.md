@@ -1,2 +1,2 @@
 ## contains Important SQL concepts
-...
+
