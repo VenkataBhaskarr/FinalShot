@@ -1,2 +1,3 @@
 ## contains Important SQL concepts
 
+[Refer Here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGNlSkszVVlpSlFscFd1aGQtaFAteVdjWHBjd3xBQ3Jtc0ttZTJMLWlxbk5aVEtDWXAtUE03dURjd24tR01EWG02cVp2UFNTeXp4eWQwOU52V1J6OU54d2cxMzZWbms5ZmNrc0FHTFpSNnFKMjlnQnNPNmdoVWNTWDdRNlhKU09Qd01sX3lPS1lNMlRtRmt0bnoxMA&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1y3KKghRhQjKfbWhvLipMOCCemKd_XdTm%2Fview%3Fusp%3Dsharing&v=dl00fOOYLOM)
