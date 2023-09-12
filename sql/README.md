@@ -1,6 +1,8 @@
-## contains Important SQL concepts
+## contains Important SQL concepts 
+[Refer Here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGNlSkszVVlpSlFscFd1aGQtaFAteVdjWHBjd3xBQ3Jtc0ttZTJMLWlxbk5aVEtDWXAtUE03dURjd24tR01EWG02cVp2UFNTeXp4eWQwOU52V1J6OU54d2cxMzZWbms5ZmNrc0FHTFpSNnFKMjlnQnNPNmdoVWNTWDdRNlhKU09Qd01sX3lPS1lNMlRtRmt0bnoxMA&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1y3KKghRhQjKfbWhvLipMOCCemKd_XdTm%2Fview%3Fusp%3Dsharing&v=dl00fOOYLOM)
 
-Learnt very important concepts today
+
+# some of the important concepts
 
 ## 1. Normalization
   Generally why would one normalize their databases because of to remove redundance and anomolies that might be created in the long run which makes the database inconsistent there are in general 5 NF's but doing until 3 NF's might do the job 99.9percent so lets discuss about them now
@@ -18,4 +20,3 @@ Learnt very important concepts today
 ## 2. How data is stored in the form of B,B+trees in databases
    before learning b/b+ trees one needs to know what tracks,sectors,blocks in the hard disk later how the data is stored in the blocks later what are indexes later how indexes stores data/pointers later m-type trees later should dive into these b/b+trees
 
-[Refer Here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGNlSkszVVlpSlFscFd1aGQtaFAteVdjWHBjd3xBQ3Jtc0ttZTJMLWlxbk5aVEtDWXAtUE03dURjd24tR01EWG02cVp2UFNTeXp4eWQwOU52V1J6OU54d2cxMzZWbms5ZmNrc0FHTFpSNnFKMjlnQnNPNmdoVWNTWDdRNlhKU09Qd01sX3lPS1lNMlRtRmt0bnoxMA&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1y3KKghRhQjKfbWhvLipMOCCemKd_XdTm%2Fview%3Fusp%3Dsharing&v=dl00fOOYLOM)
