@@ -20,3 +20,6 @@
 ## 2. How data is stored in the form of B,B+trees in databases
    before learning b/b+ trees one needs to know what tracks,sectors,blocks in the hard disk later how the data is stored in the blocks later what are indexes later how indexes stores data/pointers later m-type trees later should dive into these b/b+trees
 
+## 3. Clustering, partitioning and sharding
+    vertical parititionaing and horizantal partitionaing where horizatnal partitioning is called as sharding used for managing the large like really large data .clustering is somewhat similar to creating replica sets and maintaining.
+
